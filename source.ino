@@ -1,8 +1,8 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-#define USE_GUN false
-#define CALIBRATION_TIME_SECS 15
+#define USE_GUN true
+#define CALIBRATION_TIME_SECS 20
 #define OUTPUT_PIN_GUN 8
 #define INPUT_PIN_PIR1 10
 #define INPUT_PIN_PIR2 11
