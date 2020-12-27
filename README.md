@@ -1,6 +1,8 @@
 # Cat Defence
 Defence water-gun tower to secure sensitive places e.q. kitchen table against curious and hungry animals e.q. cats
 
+DEMO: https://www.youtube.com/watch?v=OmJHNpN56g4
+
 <img src="https://raw.githubusercontent.com/ride90/cat-defence/master/assets/photo_2020-12-26_20-47-50.jpg"  width="640"/>
 <img src="https://raw.githubusercontent.com/ride90/cat-defence/master/assets/photo_2020-12-26_20-47-52.jpg"  width="640"/>
 
